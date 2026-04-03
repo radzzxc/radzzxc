@@ -36,6 +36,8 @@ I have a strong foundation in problem-solving and I'm always eager to learn and 
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black" />
+  <img src="https://img.shields.io/badge/API_Integration-009688?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Assisted_Development-4A90E2?style=for-the-badge&logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white" />
   <img src="https://img.shields.io/badge/Git_&_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
