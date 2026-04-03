@@ -70,8 +70,7 @@ A terminal-based game I made to practice programming core turn-based battle mech
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=radzzxc&show_icons=true&theme=tokyonight" alt="Radge's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radzzxc&theme=tokyonight" alt="Radge's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=radzzxc&theme=tokyonight" alt="Radge's GitHub Streak" />
 </p>
 
 ---
