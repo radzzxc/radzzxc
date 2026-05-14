@@ -69,7 +69,7 @@ I have a strong foundation in problem-solving and I'm always eager to learn and 
 
 ## 🚀 Featured Projects
 
-### 📊 Integrated DRRM Business Intelligence Dashboard
+### 📊 [Integrated DRRM Business Intelligence Dashboard](https://github.com/radzzxc/Chimkens-Integrated-DRRM-Business-Intelligence-Dashboard)
 > **Tech Stack:** Python, Pandas, Folium, Jupyter Notebooks
 
 A centralized disaster risk reduction and management (DRRM) dashboard for Biñan City designed to provide actionable situational awareness during emergencies.
