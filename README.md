@@ -31,22 +31,52 @@ I have a strong foundation in problem-solving and I'm always eager to learn and 
 
 ## 🛠️ Top Skills & Technologies
 
-<p align="center">
+### 💻 Languages
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### 📊 Data Science & AI
+<p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black" />
+  <img src="https://img.shields.io/badge/NLP-Groq_/_Transformers-blue?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/Business_Intelligence-FFD700?style=for-the-badge&logo=google-analytics&logoColor=black" />
+  <img src="https://img.shields.io/badge/Data_Visualization-32CD32?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
+
+### 🖥️ Application Development
+<p align="left">
+  <img src="https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/API_Integration-009688?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Assisted_Development-4A90E2?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Parquet-Data_Ops-brown?style=for-the-badge&logo=apache-parquet&logoColor=white" />
+</p>
+
+### ⚙️ Tools & DevOps
+<p align="left">
   <img src="https://img.shields.io/badge/Git_&_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruff_/_Linting-white?style=for-the-badge&logo=python&logoColor=black" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📝 [Efficio](https://github.com/jhoanna-delapaz/SE-Chimkens-Efficio) *(In Development)*
+### 📊 Integrated DRRM Business Intelligence Dashboard
+> **Tech Stack:** Python, Pandas, Folium, Jupyter Notebooks
+
+A centralized disaster risk reduction and management (DRRM) dashboard for Biñan City designed to provide actionable situational awareness during emergencies.
+- **Decision Support:** Implements a dynamic Risk Scoring formula (Hazard x Population x Incident Count) to prioritize response efforts in high-vulnerability areas.
+- **Key Features:** Includes interactive geospatial mapping with smart routing for rescue teams, resource gap analysis (evacuation capacity vs. demand), and OLAP-style drill-down capabilities for deep incident exploration.
+
+### 📝 [Efficio](https://github.com/jhoanna-delapaz/SE-Chimkens-Efficio) 
 > **Tech Stack:** Python, PySide6, SQLite, Custom CSS
 
 A task and performance tracker application built to help users seamlessly organize their day-to-day activities. 
